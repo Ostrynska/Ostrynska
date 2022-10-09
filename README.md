@@ -19,6 +19,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ostrynska&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ostrynska" /></p>
 
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ostrynska&show_icons=true&locale=en&theme=tokyonight" alt="ostrynska" /></p>
+
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ostrynska&&theme=tokyonight" alt="ostrynska" /></p>
