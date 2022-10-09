@@ -4,6 +4,10 @@
 <img align="right" alt="Coding" width="220" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif">
 
 <h4 align="left">About Me:</h4>
+<p align="left">🌱 I’m currently learning **React Native, NodeJS**</p>
+<p align="left">🔭 I push myself by learning new things and taking up challenges</p>
+<p align="left">📫 How to reach me **ostrynska.kateryna@gmail.com**</p>
+
 - 🌱 I’m currently learning **React Native, NodeJS**
 - 🔭 I push myself by learning new things and taking up challenges
 - 📫 How to reach me **ostrynska.kateryna@gmail.com**
