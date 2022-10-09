@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="220" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif">
 
-👩‍💻 About Me : 
+<h4 align="left">About Me:</h4>
 - 🌱 I’m currently learning **React Native, NodeJS**
 - 🔭 I push myself by learning new things and taking up challenges
 - 📫 How to reach me **ostrynska.kateryna@gmail.com**
